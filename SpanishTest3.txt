@@ -1,0 +1,1 @@
+Test with number of examples 1900 batch size of 1900 and epoch number 1000

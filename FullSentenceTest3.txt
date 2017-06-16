@@ -1,0 +1,4 @@
+Epoch  0 error 99.9% 
+Epoch 100 error 68.2% 
+Epoch 200 error 61.4% 
+Epoch 300 error 61.4% 
